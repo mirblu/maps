@@ -1,0 +1,54 @@
+0|Entrada Compa��a|||||0
+1|Biblioteca|||||1
+2|Auditorio Juan Pablo 2�|||||2
+3|Entrada Serranos|||||3
+4|Aula Minor B|||||4
+5|Cafeter�a|||||5
+6|Aula de Grados|||||6
+7|Atenci�n al alumno|||||7
+8|Aula Caja Duero|||||8
+9|CPD|||||9
+10|WC hombres (pasillo CPD)|||||10
+11|WC mujeres (pasillo CPD)|||||11
+12|Secretar�a general|||||12
+13|Aula S-32|||||13
+14|WC hombres (pasillo inform�tica)|||||14
+15|WC mujeres (pasillo inform�tica)|||||15
+16|Aula S-35|||||16
+17|Aula S-34|||||17
+18|Aula S-33|||||18
+20|Aula S-32|||||20
+19|Aula Barroca|||||19
+22|Secretar�a|||||22
+21|Despacho Vidal Alonso|||||21
+23|Despacho Mariano Raboso|||||23
+24|Despacho Alberto Pedrero|||||24
+25|Despacho Roberto Berj�n|||||25
+26|Despacho Miguel �ngel S�nchez|||||26
+27|Despacho Marcelo Vallejo|||||27
+28|Despacho Ana Fermoso|||||28
+29|Aula S-40|||||29
+30|Aula S-41|||||30
+33|Aula S-42|||||33
+34|Despacho Manuel Mart�n-Merino|||||34
+31|Aula de Investigaci�n (entrada A)|||||31
+32|Aula de investigaci�n (entrada B)|||||32
+37|WC mujeres (4� planta)|||||37
+38|WC hombres (4� planta)|||||38
+35|Despacho J. A. de la Varga|||||35
+39|Despacho Miryam Codes|||||35
+40|Despacho �ngeles L�pez|||||35
+41|Despacho Alfonso L�pez|||||36
+42|Despacho Domingo Fern�ndez|||||36
+43|Despacho Encarna Beato|||||36
+44|Despacho Javier Bajo|||||41
+45|Despacho Montse Mateos|||||41
+46|Despacho Pablo Maillo|||||41
+47|Sala de reuniones profesorado|||||41
+48|Aula Poseid�n|||||42
+49|Aula Mercurio|||||39
+50|Aula Eolo|||||40
+51|Pla y Daniel|||||45
+52|WC hombres (6� planta)|||||46
+53|WC mujeres (6� planta)|||||43
+54|Despachos 6� planta|||||44

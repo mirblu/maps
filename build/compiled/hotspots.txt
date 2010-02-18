@@ -1,0 +1,71 @@
+0|Entrada Compa��a
+0|$0009DD502C7D
+1|Biblioteca
+1|$00247D5E935B
+2|Auditorio Juan Pablo 2�
+3|Entrada Serranos
+4|Aula Minor B
+5|Cafeter�a
+5|Tomar una ca�a
+6|Aula de Grados
+7|Atenci�n al alumno
+7|Becas
+7|Nueva matr�cula
+8|Aula Caja Duero
+8|Aula Gina
+9|CPD
+9|Arreglar tarjeta
+10|WC hombres (pasillo CPD)
+11|WC mujeres (pasillo CPD)
+12|Secretar�a general
+12|Despacho Secretario
+13|Aula S-32
+14|WC hombres (pasillo inform�tica)
+15|WC mujeres (pasillo inform�tica)
+16|Aula S-35
+16|Aula 4�
+17|Aula S-34
+18|Aula S-33
+18|Aula de 1�
+20|Aula S-32
+20|Aula de 5�
+19|Aula Barroca
+19|$0123456789AF
+19|Presentaci�n Movente
+19|$0017E3D7B05A
+22|Secretar�a
+21|Despacho Vidal Alonso
+23|Despacho Mariano Raboso
+24|Despacho Alberto Pedrero
+25|Despacho Roberto Berj�n
+26|Despacho Miguel �ngel S�nchez
+27|Despacho Marcelo Vallejo
+28|Despacho Ana Fermoso
+29|Aula S-40
+30|Aula S-41
+33|Aula S-42
+34|Despacho Manuel Mart�n-Merino
+31|Aula de Investigaci�n (entrada A)
+32|Aula de investigaci�n (entrada B)
+37|WC mujeres (4� planta)
+38|WC hombres (4� planta)
+35|Despacho J. A. de la Varga
+35|Despacho Miryam Codes
+35|Despacho �ngeles L�pez
+35|$000E590A1396
+36|Despacho Alfonso L�pez
+36|Despacho Domingo Fern�ndez
+36|Despacho Encarna Beato
+41|Despacho Javier Bajo
+41|Despacho Montse Mateos
+41|Despacho Pablo Maillo
+41|Sala de reuniones profesorado
+42|Aula Poseid�n
+39|Aula Mercurio
+40|Aula Eolo
+45|Pla y Daniel
+46|WC hombres (6� planta)
+43|WC mujeres (6� planta)
+44|Despachos 6� planta
+44|Romero Lema
+44|Vinito Espa�ol
