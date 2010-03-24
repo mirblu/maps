@@ -19,7 +19,7 @@
 11|WC mujeres (pasillo CPD)
 12|Secretar�a general
 12|Despacho Secretario
-13|Aula S-32
+13|Aula S-31
 14|WC hombres (pasillo inform�tica)
 15|WC mujeres (pasillo inform�tica)
 16|Aula S-35
